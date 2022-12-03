@@ -11,8 +11,8 @@ header: Something just like this. #Write something about you here...
 # for welcome page
 # to replace image go to index.html
 email:
-  address: "911728579@qq.com" #"user@example.com"
-  text: "911728579 at qq.com" #"user (at) example.com"
+  address: "https://github.com/NuclearFusionWenger" #"user@example.com"
+  text: "https://github.com/NuclearFusionWenger" #"user (at) example.com"
 
 # disqus comment
 disqus:
